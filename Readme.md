@@ -1,11 +1,12 @@
 
 **Team Name**:
-Chisquad
+Chisquared
 
 **Team Members**:
 * Sarthak Bhagwat 190103087 B.Tech
 * Gyanendra Prakash 190103110 B.Tech
 * Shubham Panchal 190103094 B.Tech
+*Md Shams Reza 190103056 B.Tech
 
 **Project Title**:
 Machine learning based unbalance detection of a rotating shaft using vibration data.
@@ -29,7 +30,7 @@ training data.
 
 
 **Deliverables**:
-* A .ipynb notebook detailing the variability analysis of handwritten signatures and the development of the signature verification system.
+* A .ipynb notebook
 * A GitHub repository containing the source code and documentation of the project.
 * An oral presentation in class.
 
